@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="simple_table" targetId="e9c54253330c4961a81c6df828459764" version="11.1" toolVersion="8.3.8" bbox="-1.999728 0.005916 -1.047064 1.990725 2.029072 1.672791" previewImage="e9c54253330c4961a81c6df828459764_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="simple_tables_assembly" assemblyId="ccd937a9773b482dbe5224cd7b5f2f68">
+<Part name="simple_table" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.254691 0.840272 7.73344" rotation="AD: 0.9985639215133177 0.11833637833827715 -0.5232665751448051 202.534" image="simple_table_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

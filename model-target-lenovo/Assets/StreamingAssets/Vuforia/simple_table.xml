@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="simple_table"/>
+
+</Tracking>
+
+<Assembly name="simple_tables_assembly" assemblyId="ccd937a9773b482dbe5224cd7b5f2f68">
+<Part name="simple_table" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.254691 0.840272 7.73344" rotation="AD: 0.9985639215133177 0.11833637833827715 -0.5232665751448051 202.534" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

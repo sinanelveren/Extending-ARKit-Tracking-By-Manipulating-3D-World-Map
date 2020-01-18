@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="lenovo" targetId="ddf7c5d4b4e3451094453c4735fd1a91" version="11.1" toolVersion="8.3.8" bbox="-0.207795 -0.098074 -0.056991 0.586485 0.410352 0.291289" previewImage="ddf7c5d4b4e3451094453c4735fd1a91_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="lenovos_assembly" assemblyId="8294493bdc094d42a35835e2ad2436a2">
+<Part name="lenovo" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_360" translation="0.100685 0.0906649 0.771667" rotation="AD: 0.9913023155963102 -0.562895629633618 0.30259260456332965 131.372" image="lenovo_viewpoint_360.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

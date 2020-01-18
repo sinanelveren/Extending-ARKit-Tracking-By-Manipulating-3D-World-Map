@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="MacBook Pro Parts" targetId="aceb304580dd45ae974a39aa855f12e4" version="11.1" toolVersion="8.3.8" bbox="-0.018500 -0.000594 -0.028327 0.018500 0.018845 0.012500" previewImage="aceb304580dd45ae974a39aa855f12e4_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="MacBook Pro Partss_assembly" assemblyId="96deea5b2dc94c00a834ac586745ac10">
+<Part name="MacBook Pro Parts" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00472961 0.0109039 0.0921062" rotation="AD: 0.9991691764860278 0.1406060397945468 -0.33144942380783227 223.513" image="MacBook Pro Parts_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.00675605 0.00947356 0.0931947" rotation="AD: 0.9949233588176176 0.22107769129166902 -0.5585906493550793 217.433" image="MacBook Pro Parts_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

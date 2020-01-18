@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="lenovo"/>
+
+</Tracking>
+
+<Assembly name="lenovos_assembly" assemblyId="8294493bdc094d42a35835e2ad2436a2">
+<Part name="lenovo" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_360" translation="0.100685 0.0906649 0.771667" rotation="AD: 0.9913023155963102 -0.562895629633618 0.30259260456332965 131.372" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
